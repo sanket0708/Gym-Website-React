@@ -4,6 +4,8 @@ In the project directory, you can run if want to run on the local computer by us
 
 ### `npm start`
 
+NOTE - I have used API which has only 250 request per month so if you are having trouble seeing the gif's of the exercises then the limit has been reached so you can refer to this images attached below.
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
